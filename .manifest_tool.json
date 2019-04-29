@@ -1,0 +1,13 @@
+{
+    "classId": "49458adb-4171-58cb-9811-8d5728594607", 
+    "default-certificates": [
+        {
+            "file": ".update-certificates\\default.der"
+        }
+    ], 
+    "deviceURNs": [], 
+    "modelName": "Development", 
+    "private-key": ".update-certificates\\default.key.pem", 
+    "vendorDomain": "mbed.com", 
+    "vendorId": "5d645eae-c231-5a89-9764-2e655cd94fa8"
+}
